@@ -1,4 +1,4 @@
-<img src="img/GitHub PBA E Series logo.png" alt="PBA E-Series Logi" align="right" height="150pm"/> 
+<img src="img/GitHub PBA logo_plain.png" alt="PBA E-Series Logi" align="right" height="150pm"/> 
 
 
 ## Welcome to the GitHub home for the **UCDavis Plant Breeding Academy E-Series**
